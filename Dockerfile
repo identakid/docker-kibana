@@ -1,4 +1,4 @@
-FROM alpine:3.1
+FROM alpine:latest
 
 ENV KIBANA_VERSION 4.0.2-linux-x64
 
