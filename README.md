@@ -6,5 +6,5 @@ in a small 60mb container image.
 ## Running
 
 ```
-docker run -d -p <host ip>:<host port>:5601 -e KIBANA_ES_URL=<elasticsearch url>  bobrik/kibana4
+docker run -d -p <host ip>:<host port>:5601 -e KIBANA_ES_URL=<elasticsearch url>  identakid/kibana
 ```
